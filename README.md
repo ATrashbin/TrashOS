@@ -4,7 +4,7 @@ An os made from Nanobyte's Youtube tutorial
 
 # How to build
 
-First you need to install nasm
+First you need to install [nasm](https://nasm.us/)
 
 ```bash
 $ sudo apt-get install nasm
@@ -22,7 +22,7 @@ Then Do
 $ sudo apt-get update
 ```
 
-Second install qemu
+Second install [qemu](https://www.qemu.org/)
 
 Do
 
